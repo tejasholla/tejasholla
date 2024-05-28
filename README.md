@@ -2,11 +2,19 @@
 
 "🌟 Software Developer | 3+ Years of Crafting Code | Tech Enthusiast & AI Explorer | Automating Daily Tasks for Effortless Workflows 🌟  Passionate about leveraging technology to simplify life, I bring creativity and efficiency together, scripting solutions that make everyday tasks a breeze. Dive into my world of innovation and discover the future of smart work!"<br>
 
-- 🔭 **Current Project:** <a href="https://github.com/tejasholla/powershell-profile.git" target="_blank"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">powershell-profile</button></a>
-
-- 👨‍💻 **Explore My Work:** <a href="https://github.com/tejasholla?tab=repositories" target="_blank"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Repositories</button></a>
-
-- 📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">TechFiles Blog</button></a>
+<table>
+  <tr>
+    <td>
+      - 🔭 **Current Project:** <a href="https://github.com/tejasholla/powershell-profile.git" target="_blank"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">powershell-profile</button></a><br>
+      - 👨‍💻 **Explore My Work:** <a href="https://github.com/tejasholla?tab=repositories" target="_blank"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Repositories</button></a><br>
+      - 📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">TechFiles Blog</button></a>
+    </td>
+    <td>
+      <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+      <p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+    </td>
+  </tr>
+</table>
 
 ## ⚡Fun fact:
 "Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>
