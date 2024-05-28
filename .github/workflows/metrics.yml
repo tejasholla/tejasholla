@@ -20,6 +20,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
+          output_action: commit
           token: ${{ secrets.MATRICS_TOKEN }}
           user: tejasholla
           template: classic
