@@ -15,7 +15,7 @@
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" alt="Eat Code GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" alt="Eat Code GIF" style="display: block; margin-left: auto; margin-right: 50px; width: 50px;"/>
 
 </td>
 </tr>
