@@ -11,7 +11,7 @@
 <td><img src="logo.png" alt="Logo" width="100"/></td>
 <td>
 
-- 📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">TechFiles Blog</button></a>
+📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; margin: 4px 2px; cursor: pointer;">TechFiles Blog</button></a>
 
 </td>
 </tr>
