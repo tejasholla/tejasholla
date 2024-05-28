@@ -6,12 +6,12 @@
 
 - 👨‍💻 **Explore My Work:** <a href="https://github.com/tejasholla?tab=repositories" target="_blank"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Repositories</button></a>
 
-<table>
+<table style="border: none;">
 <tr>
-<td><img src="logo.png" alt="Logo" width="100"/></td>
-<td>
+<td style="vertical-align: middle;"><img src="logo.png" alt="Logo" width="100" style="display: block; margin: auto;"/></td>
+<td style="vertical-align: middle;">
 
-📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; margin: 4px 2px; cursor: pointer;">TechFiles Blog</button></a>
+📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank" style="text-decoration: none;"><button style="background-color: #f44336; color: white; border: 2px solid #f44336; border-radius: 5px; padding: 15px 30px; text-align: center; display: inline-block; font-size: 18px; margin: 10px 2px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;">TechFiles Blog</button></a>
 
 </td>
 </tr>
