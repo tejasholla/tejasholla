@@ -30,3 +30,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
+![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
