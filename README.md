@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats:
 
-<img align="right" alt="Eat Code GIF" width="300" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/lazy.gif">
+<img align="right" alt="Eat Code GIF" width="300" height="500" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/lazy.gif">
 
 ![](https://github-readme-stats.vercel.app/api?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=dark&hide_border=false)<br/>
