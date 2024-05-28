@@ -15,7 +15,7 @@
         </p>
     </div>
     <div>
-        <img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" alt="Eat Code GIF" style="width: 100px; height: auto;"/>
+        <img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" alt="Eat Code GIF" style="width: 50px; height: auto;"/>
     </div>
 </div>
 
