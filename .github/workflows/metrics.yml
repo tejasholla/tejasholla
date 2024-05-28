@@ -11,13 +11,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          commit_message: "markscribe: update README.md"
-
       - uses: lowlighter/metrics@latest
         with:
           output_action: commit
