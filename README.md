@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/tejasholla/tejasholla/workflows/wakatime-stats/badge.svg)](https://github.com/tejasholla/tejasholla/actions)
+[![Actions Status](https://github.com/tejasholla/tejasholla/workflows/update-gh-activity/badge.svg)](https://github.com/tejasholla/tejasholla/actions)
 
 <p align="center"><img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/tejas-600px.gif" /></p>
 
