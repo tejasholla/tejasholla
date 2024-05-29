@@ -30,6 +30,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=tejasholla&theme=discord&no-frame=false&no-bg=false&margin-w=4)
@@ -43,20 +49,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasholla&bg_color=000000&color=ffffff&line=6bffbf&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 📊 All-Time Development Breakdown
-
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
