@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+
 <p align="center"><img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/tejas-600px.gif" /></p>
 
 "🌟 Software Developer | 3+ Years of Crafting Code | Tech Enthusiast & AI Explorer | Automating Daily Tasks for Effortless Workflows 🌟 Passionate about leveraging technology to simplify life, I bring creativity and efficiency together, scripting solutions that make everyday tasks a breeze. Dive into my world of innovation and discover the future of smart work!"<br>
