@@ -47,3 +47,7 @@
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
