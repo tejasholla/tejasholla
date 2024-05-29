@@ -2,7 +2,7 @@ name: update-gh-activity
 
 on:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "30 18 * * *"
 
 jobs:
   build:
