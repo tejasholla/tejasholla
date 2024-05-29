@@ -1,6 +1,3 @@
-[![Actions Status](https://github.com/tejasholla/tejasholla/workflows/wakatime-stats/badge.svg)](https://github.com/tejasholla/tejasholla/actions)
-[![Actions Status](https://github.com/tejasholla/tejasholla/workflows/update-gh-activity/badge.svg)](https://github.com/tejasholla/tejasholla/actions)
-
 <p align="center"><img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/tejas-600px.gif" /></p>
 
 "🌟 Software Developer | 3+ Years of Crafting Code | Tech Enthusiast & AI Explorer | Automating Daily Tasks for Effortless Workflows 🌟 Passionate about leveraging technology to simplify life, I bring creativity and efficiency together, scripting solutions that make everyday tasks a breeze. Dive into my world of innovation and discover the future of smart work!"<br>
@@ -54,74 +51,11 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C646%20hrs%2036%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 334.7 kB Used in GitHub's Storage 
- > 
-> 🏆 367 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-🌆 Daytime                2337 commits        ████████░░░░░░░░░░░░░░░░░   33.88 % 
-🌃 Evening                3211 commits        ████████████░░░░░░░░░░░░░   46.55 % 
-🌙 Night                  1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-C++                      6 hrs 9 mins        █████████████████░░░░░░░░   66.24 % 
-C                        1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-CMake                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-
-🐱‍💻 Projects: 
-swarm_mission            3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
-netbox-swarm-gui         3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
-swarm_docker             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-src                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-coverage_planner.py      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-
-
- Last Updated on 28/05/2024 12:35:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 All-Time Development Breakdown
 
 <!--START_SECTION:waka-simple-->
-
-```text
-From: 16 July 2020 - To: 27 May 2024
-
-Total Time: 1,650 hrs 47 mins
-
-C++                573 hrs 6 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.72 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.98 %
-Python             235 hrs 2 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.24 %
-C                  131 hrs 24 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.96 %
-Bash               84 hrs 2 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.09 %
-YAML               76 hrs 18 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %
-```
-
 <!--END_SECTION:waka-simple-->
 
 <p align="center">
