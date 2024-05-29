@@ -2,6 +2,8 @@
 
 "🌟 Software Developer | 3+ Years of Crafting Code | Tech Enthusiast & AI Explorer | Automating Daily Tasks for Effortless Workflows 🌟 Passionate about leveraging technology to simplify life, I bring creativity and efficiency together, scripting solutions that make everyday tasks a breeze. Dive into my world of innovation and discover the future of smart work!"<br>
 
+<p align="center"><img alt="Eat Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" /></p>
+
 - 🔭 **Current Project:** <a href="https://github.com/tejasholla/powershell-profile.git" target="_blank"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">powershell-profile</button></a>
 
 - 👨‍💻 **Explore My Work:** <a href="https://github.com/tejasholla?tab=repositories" target="_blank"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Repositories</button></a>
