@@ -1,0 +1,41 @@
+name: Update README with Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour, adjust as needed
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Wakatime Stats
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s -G \
+            -d 'api_key=${WAKATIME_API_KEY}' \
+            -d 'range=last_7_days' \
+            https://wakatime.com/api/v1/users/current/summaries \
+            -o wakatime.json
+
+      - name: Update README
+        run: |
+          python update_readme.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Updated README with Wakatime stats'
+          git push
+
+      - name: Clean Up
+        run: |
+          rm wakatime.json
