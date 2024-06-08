@@ -2,7 +2,11 @@ import json
 
 # Load Wakatime stats
 with open('wakatime.json', 'r') as f:
-    data = json.load(f)
+    try:
+        data = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON: {e}")
+        data = {}
 
 # Check if 'data' key exists
 if 'data' in data:
@@ -14,7 +18,7 @@ if 'data' in data:
     wakatime_details += "| --- | --- |\n"
 
     for day in project_stats:
-        for project in day['projects']:
+        for project in day.get('projects', []):
             wakatime_details += f"| {project['name']} | {project['text']} |\n"
 
     # Read the README file
@@ -29,3 +33,4 @@ if 'data' in data:
         f.write(new_readme)
 else:
     print("No 'data' key found in the JSON response.")
+    print(json.dumps(data, indent=4))
