@@ -1,12 +1,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/tejas.gif" /></p>
 
-***🌟 Code Wizard | 3+ Years of Magic 🌟***<br>
-***🎉 Tech Enthusiast & AI Explorer 🎉***<br>
-***🤖 Automating Daily Tasks for Maximum Chill 🤖***<br>
-***✨ Turning Coffee into Code & Chaos into Creativity ✨***<br>
-***🎌 Anime Lover - Because Even Code Needs Epic Plot Twists 🎌***
+**_🌟 Code Wizard | 3+ Years of Magic 🌟_**<br>
+**_🎉 Tech Enthusiast & AI Explorer 🎉_**<br>
+**_🤖 Automating Daily Tasks for Maximum Chill 🤖_**<br>
+**_✨ Turning Coffee into Code & Chaos into Creativity ✨_**<br>
+**_🍜 Anime & Donghua Lover | Because even coders need Epic Storylines and Plot Twists! 🍜_**
 
-***Hey there! I'm a tech sorcerer who loves to simplify life with clever scripts and a touch of humor. Whether I'm crafting code or exploring AI, I'm always brewing up something exciting. Ready to dive into a world of innovation and smart work? Let's make some magic! 🪄💻***
+**_Hey there! I'm a tech sorcerer who loves to simplify life with clever scripts and a touch of humor. Whether I'm crafting code or exploring AI, I'm always brewing up something exciting. Ready to dive into a world of innovation and smart work? Let's make some magic! 🪄💻_**
 
 <p align="center"><img alt="Eat Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" /></p>
 
@@ -42,7 +42,7 @@
 
 ## ⚡Fun fact:
 
-***"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>***
+**_"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>_**
 
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
