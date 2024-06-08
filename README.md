@@ -34,14 +34,15 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=tejasholla&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+## ⚡Fun fact:
+
+***"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>***
+
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
 ![wakatime](https://wakatime.com/badge/user/f4215698-35da-4ab1-95e2-fc35a14ba759.svg)
 
-## ⚡Fun fact:
-
-***"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>***
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
