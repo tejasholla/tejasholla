@@ -4,6 +4,7 @@
 ***🎉 Tech Enthusiast & AI Explorer 🎉***<br>
 ***🤖 Automating Daily Tasks for Maximum Chill 🤖***<br>
 ***✨ Turning Coffee into Code & Chaos into Creativity ✨***
+***🎌 Anime Lover - Because Even Code Needs Epic Plot Twists 🎌***
 
 ***Hey there! I'm a tech sorcerer who loves to simplify life with clever scripts and a touch of humor. Whether I'm crafting code or exploring AI, I'm always brewing up something exciting. Ready to dive into a world of innovation and smart work? Let's make some magic! 🪄💻***
 
