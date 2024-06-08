@@ -1,6 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/tejas.gif" /></p>
 
-"🌟 Software Developer | 3+ Years of Crafting Code | Tech Enthusiast & AI Explorer | Automating Daily Tasks for Effortless Workflows 🌟 Passionate about leveraging technology to simplify life, I bring creativity and efficiency together, scripting solutions that make everyday tasks a breeze. Dive into my world of innovation and discover the future of smart work!"<br>
+**🌟 Code Wizard | 3+ Years of Magic 🌟**<br>
+**🎉 Tech Enthusiast & AI Explorer 🎉**<br>
+**🤖 Automating Daily Tasks for Maximum Chill 🤖**<br>
+**✨ Turning Coffee into Code & Chaos into Creativity ✨**
+
+*Hey there! I'm a tech sorcerer who loves to simplify life with clever scripts and a touch of humor. Whether I'm crafting code or exploring AI, I'm always brewing up something exciting. Ready to dive into a world of innovation and smart work? Let's make some magic! 🪄💻*
 
 <p align="center"><img alt="Eat Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/eat_code.gif" /></p>
 
