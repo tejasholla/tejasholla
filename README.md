@@ -12,7 +12,7 @@
 
 ## ⚡Fun fact:
 
-"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>
+***"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>***
 
 ## 🌐 Socials:
 
