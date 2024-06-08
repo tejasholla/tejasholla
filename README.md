@@ -29,6 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
 
 ## 🏆 GitHub Trophies
 
@@ -45,6 +46,7 @@
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
+![wakatime](https://wakatime.com/badge/user/f4215698-35da-4ab1-95e2-fc35a14ba759.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
