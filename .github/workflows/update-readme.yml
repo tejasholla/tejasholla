@@ -18,14 +18,18 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
+          start_date=$(date -d "7 days ago" +%Y-%m-%d)
+          end_date=$(date +%Y-%m-%d)
           curl -s -G \
             -d "api_key=${WAKATIME_API_KEY}" \
-            -d "range=last_7_days" \
+            -d "start=${start_date}" \
+            -d "end=${end_date}" \
             https://wakatime.com/api/v1/users/current/summaries \
             -o wakatime.json
 
       - name: Print Wakatime Stats
         run: |
+          echo "Wakatime JSON response:"
           cat wakatime.json
 
       - name: Update README
