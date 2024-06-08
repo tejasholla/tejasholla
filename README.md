@@ -37,6 +37,12 @@
 | --- | --- |
 | No data available | |
 
+## Wakatime Stats
+
+| Project | Time Spent |
+| --- | --- |
+| No data available | |
+
 
 ## 🏆 GitHub Trophies
 
