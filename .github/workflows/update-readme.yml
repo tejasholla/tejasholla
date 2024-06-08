@@ -37,7 +37,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md wakatime.json
-          git commit -m 'Updated README with Wakatime stats'
+          git commit -m 'Updated README with Wakatime stats' || echo "No changes to commit"
           git push
 
       - name: Clean Up
