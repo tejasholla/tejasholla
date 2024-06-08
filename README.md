@@ -30,14 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--START_SECTION:waka-->
-## Wakatime Stats
-
-| Project | Time Spent |
-| --- | --- |
-| No data available | |
-
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=tejasholla&theme=discord&no-frame=false&no-bg=false&margin-w=4)
