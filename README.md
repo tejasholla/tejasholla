@@ -10,10 +10,6 @@
 
 - 📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">TechFiles Blog</button></a>
 
-## ⚡Fun fact:
-
-***"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>***
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tejasholla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasholla) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tejas-Holla-5) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/imtejasholla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@techfilez) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasholla@techfiles.in?subject=GitHub)
@@ -43,6 +39,9 @@
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
 ![wakatime](https://wakatime.com/badge/user/f4215698-35da-4ab1-95e2-fc35a14ba759.svg)
 
+## ⚡Fun fact:
+
+***"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>***
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
