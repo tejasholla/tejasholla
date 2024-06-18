@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img alt="Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/lazy.gif" /></p>
+<p align="center"><img alt="Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/stats.gif" /></p>
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=tejasholla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=buefy-dark&hide_border=true&background=1a1b27)<br/>
@@ -42,7 +42,7 @@
 
 ## ⚡Fun fact:
 
-**_"Did you know? The term 'bug' in software actually comes from a real insect! In 1947, a moth was found causing issues in a Mark II computer at Harvard, and the incident was logged as the 'first actual case of bug being found.' The term has stuck ever since!"<br>_**
+<p align="center"><img alt="Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/funfacts.gif" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
