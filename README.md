@@ -42,7 +42,7 @@
 
 ## ⚡Fun fact:
 
-<p align="center"><img alt="Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/funfacts.gif" /></p>
+<p align="center"><img alt="Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/facts.gif" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
