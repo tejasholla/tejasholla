@@ -38,7 +38,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tejasholla&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tejasholla&margin-w=10&no-frame=true&row=1&theme=darkhub)
 
 ## ⚡Fun fact:
 
@@ -49,7 +49,7 @@
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
 ![wakatime](https://wakatime.com/badge/user/f4215698-35da-4ab1-95e2-fc35a14ba759.svg)
 
-***Remember, with great power comes great responsibility. Use these spells wisely, and let the magic unfold!***
+**_Remember, with great power comes great responsibility. Use these spells wisely, and let the magic unfold!_**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
