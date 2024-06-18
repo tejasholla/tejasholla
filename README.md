@@ -28,7 +28,7 @@
 
 <p align="center"><img alt="Code GIF" width="1000px" src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/lazy.gif" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=tejasholla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasholla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
