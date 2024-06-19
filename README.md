@@ -30,11 +30,11 @@
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=tejasholla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=buefy-dark&hide_border=true&background=1a1b27)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejasholla&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight)
 
 ## My Coding Activity
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tejasholla&layout=compact&langs_count=10)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejasholla&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight)<br/>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tejasholla&layout=compact&hide_title=true&hide_border=true&langs_count=10&custom_title=WakaTime%20Language%20Stats&theme=dark)
 
 ## 📊 Contribution graph
 
