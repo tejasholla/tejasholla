@@ -32,6 +32,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasholla&theme=buefy-dark&hide_border=true&background=1a1b27)<br/>
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejasholla&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight)
 
+## My Coding Activity
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tejasholla&layout=compact&langs_count=10)
+
 ## 📊 Contribution graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasholla&bg_color=000000&color=ffffff&line=6bffbf&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
