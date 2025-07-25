@@ -51,7 +51,7 @@
 [![](https://visitcount.itsvg.in/api?id=tejasholla&icon=5&color=12)](https://visitcount.itsvg.in)
 ![Followers](https://img.shields.io/github/followers/tejasholla?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/tejasholla?style=social)
-![wakatime](https://wakatime.com/badge/user/f4215698-35da-4ab1-95e2-fc35a14ba759.svg)
+[![wakatime](https://wakatime.com/badge/user/f4215698-35da-4ab1-95e2-fc35a14ba759.svg)](https://wakatime.com/@f4215698-35da-4ab1-95e2-fc35a14ba759)
 
 **_Remember, with great power comes great responsibility. Use these spells wisely, and let the magic unfold!_**
 
