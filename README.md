@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/tejasholla/tejasholla/main/tejas.gif" /></p>
 
-**_🌟 Code Wizard | 3+ Years of Magic 🌟_**<br>
+**_🌟 Code Wizard | 5+ Years of Magic 🌟_**<br>
 **_🎉 Tech Enthusiast & AI Explorer 🎉_**<br>
 **_🤖 Automating Daily Tasks for Maximum Chill 🤖_**<br>
 **_✨ Turning Coffee into Code & Chaos into Creativity ✨_**<br>
